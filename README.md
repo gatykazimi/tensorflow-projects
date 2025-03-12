@@ -17,4 +17,4 @@ loss with epoch number is shown on the plot below. This shows that the higher th
 However, sometimes the model would become less accurate with the higher epoch number, so the number of epochs had to be optimized (epochs=15 here).
 
 ![image](https://github.com/user-attachments/assets/46c449f1-0f29-40d6-89c2-3c046e4ca49f)  
-After the model was trained, I compared it against the test batch, and it had a **70%** accuracy.
+After the model was trained, it showed **70%** accuracy with the test data.
