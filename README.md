@@ -2,7 +2,7 @@
  Tensorflow projects from freeCodeCamp
 
 # Cat vs Dog
-The fcc_cat_dog.ipynb file is a Jupyter notebook that contains an ML model using Tensorflow and Keras, whose goal it is differentiate between cats and dogs
+The fcc_cat_dog.ipynb file is a Jupyter notebook that contains an ML model using Tensorflow and Keras, whose goal it is differentiate between cats and dogs.
 First, the  pictures were generated using ImageDataGenerator, then the model was built using the Keras Sequential model, using Conv2D and MaxPooling2D layers
 and ReLU activation. In the final dense layer, I used a sigmoid activation.
 To increase accuracy, I used more layers and nodes in my model, and augmented my training data to minimize overfitting.  
